@@ -45,9 +45,10 @@ Participants across all three Fall 2024 NMFS Openscapes Champions
 Cohorts are welcome and encouraged to join a Coworking session in the
 weeks between Cohort Calls.
 
-**Date-Times:** Tuesdays and Thursdays 12:00 -1:00 pm PT every second
-week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28. \*Tuesday Oct 29 will be
-11:00 - 12:00 PT to allow people to attend the NMFS R User Group session
+**Date-Times:** 
+Tuesdays and Thursdays 12:00 -1:00 pm PT every second
+week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28. 
+\*Tuesday Oct 29 will be 11:00 - 12:00 PT to allow people to attend the NMFS R User Group session
 12:00 - 1:00 pm PT.
 
 ## Participating teams and individuals
