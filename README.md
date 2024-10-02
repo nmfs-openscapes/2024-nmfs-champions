@@ -8,7 +8,7 @@ Marine Fisheries Service (NMFS). It is one of three NOAA Fisheries
 Cohorts running concurrently in Fall 2024 with research teams and
 individuals from across NMFS Centers and Offices.
 
-<img src="horst-champions-trailhead.png" align="right" width="450"/>
+<img src="horst-champions-trailhead.png" align="right" width="450">
 
 ## Cohort Agendas
 
@@ -19,9 +19,8 @@ hours each:
 - **Times:** 11:00 - 12:30 pm PT
 - **Location:** remotely, via Zoom
 
-Agendas are accessible to Cohort participants in our [Cohort Google
-Drive Folder](%60r%20db$cr$google_drive_folder%60); they are also an
-archive of our live google-docing. Please see
+Agendas are accessible to Cohort participants in our Cohort Google
+Drive Folder; they are an archive of our live google-doc'ing. Please see
 <https://openscapes.org/series> to view blank versions of the agendas.
 
 | Date  | Cohort Call Topics                                   |
@@ -45,9 +44,9 @@ Participants across all three Fall 2024 NMFS Openscapes Champions
 Cohorts are welcome and encouraged to join a Coworking session in the
 weeks between Cohort Calls.
 
-**Date-Times:** 
+**Date-Times:**   
 Tuesdays and Thursdays 12:00 -1:00 pm PT every second
-week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28. 
+week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28.   
 \*Tuesday Oct 29 will be 11:00 - 12:00 PT to allow people to attend the NMFS R User Group session
 12:00 - 1:00 pm PT.
 
@@ -58,8 +57,9 @@ Some brief information about participants. Please add any edits directly
 
 ## Our Team
 
-Julie Lowndes (@jules32), Openscapes Stefanie Butland
-(@stefaniebutland), Openscapes Eli Holmes (@eeholmes), NMFS Open Science
+Julie Lowndes (@jules32), Openscapes   
+Stefanie Butland (@stefaniebutland), Openscapes  
+Eli Holmes (@eeholmes), NMFS Open Science  
 
 Mentors list to come.
 
