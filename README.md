@@ -1,9 +1,9 @@
 
 <a align="left" href="https://github.com/nmfs-openscapes/2024-nmfs-a"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2024 NMFS A
+# 2024 NMFS Champions A
 
-Welcome to the 2024 NMFS A Cohort! This is a Cohort for NOAA’s National
+Welcome to the 2024 NMFS Champions A Cohort! This is a Cohort for NOAA’s National
 Marine Fisheries Service (NMFS). It is one of three NOAA Fisheries
 Cohorts running concurrently in Fall 2024 with research teams and
 individuals from across NMFS Centers and Offices.
@@ -23,13 +23,13 @@ Agendas are accessible to Cohort participants in our Cohort Google
 Drive Folder; they are an archive of our live google-doc'ing. Please see
 <https://openscapes.org/series> to view blank versions of the agendas.
 
-| Date  | Cohort Call Topics                                   |
-|:------|:-----------------------------------------------------|
-| 10/08 | Openscapes mindset                                   |
-| 10/22 | GitHub for publishing & project management           |
-| 11/05 | Team culture and data strategies for future us       |
-| 11/19 | Open communities and coding strategies for future us |
-| 12/03 | Pathways share and next steps                        |
+| Date  | Cohort Call Topics                                   | Series Chapters |      Seaside Chat Topics |
+|:------|:-----------------------------------------------------|:----------------------|:--------------------------------|
+| 10/08 | Openscapes mindset                                   | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
+| 10/22 | GitHub for publishing & project management           | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
+| 11/05 | Team culture and data strategies for future us       | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+| 11/19 | Open communities & intro to Cloud workflows          | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
+| 12/03 | Pathways share & next steps                          |  |   | 
 
 ## Coworking times (optional)
 
@@ -47,8 +47,7 @@ weeks between Cohort Calls.
 **Date-Times:**   
 Tuesdays and Thursdays 12:00 -1:00 pm PT every second
 week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28.   
-\*Tuesday Oct 29 will be 11:00 - 12:00 PT to allow people to attend the NMFS R User Group session
-12:00 - 1:00 pm PT.
+\*Tuesday Oct 29 will be 11:00 - 12:00 PT.
 
 ## Participating teams and individuals
 
@@ -60,8 +59,7 @@ Some brief information about participants. Please add any edits directly
 Julie Lowndes (@jules32), Openscapes   
 Stefanie Butland (@stefaniebutland), Openscapes  
 Eli Holmes (@eeholmes), NMFS Open Science  
-
-Mentors list to come.
+NMFS Openscapes Mentors
 
 ## More about Openscapes and the Champions program:
 
@@ -73,14 +71,12 @@ Mentors list to come.
   collaborative teamwork. It was the original inspiration for creating
   the Champions Program and heavily influences the Core Lessons. We’ll
   ask that everyone participating reads it before our first Cohort Call.
-- [**Supercharge your research: a ten-week plan for open data science
-  **](https://openscapes.github.io/supercharge-research/) (Lowndes et
+- [**Supercharge your research: a ten-week plan for open data science**](https://openscapes.github.io/supercharge-research/) (Lowndes et
   al. 2019) - This was co-authored with the inaugural Champions Cohort,
   capturing the most valuable take-aways for marine and environmental
   science early career faculty.
 - [**Shifting institutional culture to develop climate solutions with
-  Open Science
-  **](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes
+  Open Science**](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes
   et al. 2019) - This was co-authored by Openscapes mentors across
   organizations – including NASA Earthdata, NOAA Fisheries, EPA,
   California Water Boards, Pathways to Open Science, Fred Hutch Cancer
