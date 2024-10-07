@@ -29,7 +29,7 @@ Drive Folder; they are an archive of our live google-doc'ing. Please see
 | 10/22 | GitHub for publishing & project management           | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
 | 11/05 | Team culture and data strategies for future us       | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
 | 11/19 | Open communities & intro to Cloud workflows          | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
-| 12/03 | Pathways share & next steps                          |  |   | 
+| 12/03 | Pathways share & next steps                          | [pathways](https://openscapes.github.io/series/core-lessons/pathways.html) |   | 
 
 ## Coworking times (optional)
 
