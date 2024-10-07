@@ -69,7 +69,7 @@ Some brief information about participants. Please add any edits directly
 Julie Lowndes (@jules32), Openscapes   
 Stefanie Butland (@stefaniebutland), Openscapes  
 Eli Holmes (@eeholmes), NMFS Open Science  
-Jon Peake (@jonpeake), NMFS Open Science 
+Jon Peake (@jonpeake), NMFS Open Science   
 NMFS Openscapes Mentors
 
 ## More about Openscapes and the Champions program:
