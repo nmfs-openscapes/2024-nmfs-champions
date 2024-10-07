@@ -1,5 +1,5 @@
 
-<a align="left" href="https://github.com/nmfs-openscapes/2024-nmfs-a"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
+<a align="left" href="https://github.com/nmfs-openscapes/2024-nmfs-champions"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
 # 2024 NMFS Champions 
 
