@@ -1,10 +1,10 @@
 
 <a align="left" href="https://github.com/nmfs-openscapes/2024-nmfs-a"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2024 NMFS Champions A
+# 2024 NMFS Champions 
 
-Welcome to the 2024 NMFS Champions A Cohort! This is a Cohort for NOAA’s National
-Marine Fisheries Service (NMFS). It is one of three NOAA Fisheries
+Welcome to the 2024 NMFS Openscapes Champions Program for NOAA’s National
+Marine Fisheries Service (NMFS). This is the website for the three NOAA Fisheries
 Cohorts running concurrently in Fall 2024 with research teams and
 individuals from across NMFS Centers and Offices.
 
@@ -12,24 +12,34 @@ individuals from across NMFS Centers and Offices.
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom five times over two months for 1.5
-hours each:
-
-- **Dates:** October 8, 22, November 5, 19, December 3
-- **Times:** 11:00 - 12:30 pm PT
-- **Location:** remotely, via Zoom
-
-Agendas are accessible to Cohort participants in our Cohort Google
-Drive Folder; they are an archive of our live google-doc'ing. Please see
+Cohorts A, B, C will meet via Zoom five times over two months for 1.5
+hours each. Agendas are accessible to Cohort participants in our Cohort Google
+Drive Folders; they are an archive of our live google-doc'ing. Please see
 <https://openscapes.org/series> to view blank versions of the agendas.
 
-| Date  | Cohort Call Topics                                   | Series Chapters |      Seaside Chat Topics |
-|:------|:-----------------------------------------------------|:----------------------|:--------------------------------|
-| 10/08 | Openscapes mindset                                   | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
-| 10/22 | GitHub for publishing & project management           | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
-| 11/05 | Team culture and data strategies for future us       | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
-| 11/19 | Open communities & intro to Cloud workflows          | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
-| 12/03 | Pathways share & next steps                          | [pathways](https://openscapes.github.io/series/core-lessons/pathways.html) |   | 
+**Cohort A**
+- **Dates:** October 8, 22, November 5, 19, December 3
+- **Times:** 11:00 am - 12:30 pm PT
+- [CohortFolder](https://drive.google.com/drive/folders/17WmbJgxIHnrs8YQe5y90QhfvICZOiJRl)
+
+**Cohort B**
+- **Dates:** October 9, 23, November 6, 20, December 4
+- **Times:** 10:00 - 11:30 am PT
+- [CohortFolder](https://drive.google.com/drive/folders/1PTqeyrRC6QvZZ1dZ85pmdiE4JxLJktkX)
+
+**Cohort C**
+- **Dates:** October 9, 23, November 6, 20, December 4
+- **Times:** 1:00 - 2:30 pm PT
+- [CohortFolder](https://drive.google.com/drive/folders/1vnoIvwQJ0_qxaJaa7ejS4FWs90oZF9Aq)
+
+
+| Cohort Calls | Topics                                   | Series Chapters |      Seaside Chat Topics |
+|:-------------|:-----------------------------------------------------|:----------------------|:--------------------------------|
+| Call 1 | Openscapes mindset                             | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
+| Call 2 | GitHub for publishing & project management     | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
+| Call 3 | Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+| Call 4 | Open communities & intro to Cloud workflows    | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
+| Call 5 | Pathways share & next steps                     | [pathways](https://openscapes.github.io/series/core-lessons/pathways.html) |   | 
 
 ## Coworking times (optional)
 
