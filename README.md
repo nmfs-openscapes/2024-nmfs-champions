@@ -35,7 +35,7 @@ Drive Folders; they are an archive of our live google-doc'ing. Please see
 
 | Cohort Calls | Topics                                   | Series Chapters |      Seaside Chat Topics |
 |:-------------|:-----------------------------------------------------|:----------------------|:--------------------------------|
-| Call 1 | Openscapes mindset                             | [mindset](https://openscapes.github.io/series/mindset), [better science in less time](https://openscapes.github.io/series/better-science.html) | Pathway trailhead; create GitHub accounts 
+| Call 1 | Openscapes mindset                             | [mindset](https://openscapes.github.io/series/mindset), [better science for future us - Alaska Marine Mammal Stock Assessment Report process - a SAR Story](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/)  ([recording](https://www.youtube.com/watch?v=wqbwcCXbFL8))  | Pathway trailhead; create GitHub accounts 
 | Call 2 | GitHub for publishing & project management     | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
 | Call 3 | Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
 | Call 4 | Open communities & intro to Cloud workflows    | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
