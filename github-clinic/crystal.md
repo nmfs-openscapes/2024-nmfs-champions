@@ -40,7 +40,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+Your turn! **Change** or _add_ something in Markdown and make another [commit](www.google.com): write a human-readable commit message, and press the green button to commit changes. 
 
 ## NOTES
 
