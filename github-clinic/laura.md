@@ -34,6 +34,10 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
+## Make a new header
+
+- and a bullet
+
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
@@ -45,3 +49,12 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+## make a new header
+
+- and a bullet
+  1. and numbered list
+  2. one thats *italic*
+  3. and one that is **bold**
+
+now a hyperlink to [garfo website](https://www.fisheries.noaa.gov/about/greater-atlantic-regional-fisheries-office)hyperlink
