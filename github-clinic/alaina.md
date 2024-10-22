@@ -44,6 +44,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 ### Trying stuff out!
 
+The number of pound signs produces different header styles!
+
 Listing things to think about:
 
 1. CITES
