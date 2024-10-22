@@ -57,4 +57,4 @@ It's a lot to get familiar with markdown if you haven't used it previously!
   2. one thats *italic*
   3. and one that is **bold**
 
-now a hyperlink to [garfo website](https://www.fisheries.noaa.gov/about/greater-atlantic-regional-fisheries-office)hyperlink
+now a hyperlink to [garfo website](https://www.fisheries.noaa.gov/about/greater-atlantic-regional-fisheries-office)
