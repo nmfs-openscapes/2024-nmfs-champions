@@ -38,6 +38,8 @@ I am making a new list of my favorite acitivities
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+>
+> I am making a hyperlink for the [GitHubClinic Google Slides](https://docs.google.com/presentation/d/1geUN-dv-NMx6IgeCwMRVmTO8nZaauIl26tZDOrkLW_E/edit#slide=id.g20695b6755c_0_133)
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
