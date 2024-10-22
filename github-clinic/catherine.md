@@ -23,8 +23,10 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 Trying to do some of these things, I am *sure* that I will need to be **reminded** what these markup options are.
 
 1. I will need to practice this more
-2. I am glad there are hands on sessions in these cohorts
-3. $$e=mc^2$$
+   [] try again
+   [] other tries
+3. I am glad there are hands on sessions in these cohorts
+4. $$e=mc^2$$
 
 We can make words **bold** or *italic*.
 
