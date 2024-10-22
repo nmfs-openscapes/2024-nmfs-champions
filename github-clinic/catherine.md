@@ -19,12 +19,16 @@ Now let's practice Markdown and commit another edit to this file.
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
 ### My practice section
-
+## I need to figure out some of these things more
+# What does the number of hashtags do
 Trying to do some of these things, I am *sure* that I will need to be **reminded** what these markup options are.
 
 1. I will need to practice this more
-   [] try again
-   [] other tries
+* try again
+* other tries
+
+[ ] checkbox
+
 3. I am glad there are hands on sessions in these cohorts
 4. $$e=mc^2$$
 
