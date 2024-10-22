@@ -29,6 +29,12 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+I am making a new list of my favorite acitivities
+
+1. surf
+2. hike
+3. swim
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
