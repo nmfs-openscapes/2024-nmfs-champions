@@ -40,6 +40,11 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
+Here's a well-known, absurdist quote
+> Time flies like an arrow, fruit flies like a banana
+> ![](https://pbs.twimg.com/media/ClUy3dgWkAEkWaO?format=jpg&name=900x900)
+
+
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
