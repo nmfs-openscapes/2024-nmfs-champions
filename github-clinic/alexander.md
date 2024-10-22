@@ -18,7 +18,7 @@ Now let's practice Markdown and commit another edit to this file.
 
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can make words **bold** or *italic* using **two asterisks on either side** or *one*. What about ***three***?
 
 ### We can make headers.
 
