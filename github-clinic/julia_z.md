@@ -20,6 +20,15 @@ This file is written in Markdown, which formats text on the web. To see the Mark
 
 We can make words **bold** or *italic*.
 
+Writing in **bold** and *italic*.
+
+Different types of headers:
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### How many levels of header are there
+
 ### We can make headers.
 
 We can make lists – *note that lists need an empty line before list items!*
