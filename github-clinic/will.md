@@ -32,7 +32,7 @@ We can make lists – *note that lists need an empty line before list items!*
 
 1. Familiarize myself with Rmarkdown
 2. *practice* **skills** learned from the call
-3. Find ways to link skills developed in this course to the public facing websites [FOCE Website](https://www.ecofoci.noaa.gov/scientist/dr-will-fennie)
+3. Find ways to link skills developed in this course to the public facing websites [FOCI Website](https://www.ecofoci.noaa.gov/scientist/dr-will-fennie)
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
