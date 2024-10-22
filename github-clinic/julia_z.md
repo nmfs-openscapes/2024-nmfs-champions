@@ -37,6 +37,14 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+4. This list is automated
+
+
+Now I want to start a new list
+
+1. list item 1
+2. yay it worked! 
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
