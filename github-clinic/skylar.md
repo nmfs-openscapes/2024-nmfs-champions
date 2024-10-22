@@ -1,4 +1,4 @@
-Hehehe I've added something! - Em
+Hehehe I've _added_ **something**! - [Em](me.com)
 ![funny-dog-just-saying-hi-npp3xjjzhusrvpdm](https://github.com/user-attachments/assets/76f134e7-b51c-46a9-a970-0353ddee9a75)
 
 
