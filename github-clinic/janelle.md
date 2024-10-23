@@ -27,6 +27,7 @@ We can make lists – *note that lists need an empty line before list items!*
 1. bananas
 2. tamales
 3. cakes
+4. [potato] (https://www.google.com/search?q=cute+dog&client=firefox-b-1-d&sca_esv=dcbcef83952848e4&udm=2&biw=1435&bih=676&ei=izMZZ-ukEOSp0PEPotCUwA0&ved=0ahUKEwirlv_VhKWJAxXkFDQIHSIoBdgQ4dUDCBA&uact=5&oq=cute+dog&gs_lp=EgNpbWciCGN1dGUgZG9nMg0QABiABBixAxhDGIoFMg0QABiABBixAxhDGIoFMggQABiABBixAzINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMggQABiABBixA0jJC1CeBljmCnADeACQAQCYAWCgAfUDqgEBOLgBA8gBAPgBAZgCC6ACrQTCAgYQABgHGB7CAgsQABiABBixAxiDAZgDAIgGAZIHBDEwLjGgB8cp&sclient=img)
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
