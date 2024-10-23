@@ -64,6 +64,8 @@ week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28.
 Some brief information about participants. Please add any edits directly
 (we’ll learn how in our GitHub Clinic!)
 
+1. **PIFSC Socioeconomics**: My name is Crystal Dombrow and I analyze socioeconomic cost-earnings survey data from small boat fisheries in the Pacific Islands region. 
+
 ## Our Team
 
 Julie Lowndes (@jules32), Openscapes   
