@@ -49,5 +49,5 @@ It's a lot to get familiar with markdown if you haven't used it previously!
 ### Heather's Playtime
 
 This could be *really fun* and **really useful** once I get the hang of it.
-Come [see me] at (https://github.com/HBaertl) 
+Come [see me at](https://github.com/HBaertl) 
 Stop on by!
