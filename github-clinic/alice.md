@@ -41,6 +41,7 @@ We can make an indented quote block with the `>` symbol, as in the example above
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+
 You can copy a photo from the internet and paste it here:
 ![image](https://github.com/user-attachments/assets/55a28fc9-eea5-44b9-9d2f-62b356d54f15)
 
