@@ -42,6 +42,19 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
+
+## This is a practice section!
+
+This section is a test section. I'm putting text here just for the fun of it. Here's a list of fishes:
+
+1. *Etheostoma swaini* Gulf Darter
+2. *Cottus carolinae* Banded Sculpin
+3. *Alburnops texanus* Weed Shiner
+
+
+
+
+
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
