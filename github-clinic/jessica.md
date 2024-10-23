@@ -38,8 +38,9 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 ![](../horst-champions-trailhead.png)
 
-![]()![picture24](https://github.com/user-attachments/assets/967e0410-0b8b-4ce0-b177-f06c516c74ee)
+![picture24](https://github.com/user-attachments/assets/967e0410-0b8b-4ce0-b177-f06c516c74ee)
 
+![picture24 1](https://github.com/user-attachments/assets/f1106179-9ce1-49a0-8baf-e799eafac445)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
