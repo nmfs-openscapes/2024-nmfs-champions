@@ -34,6 +34,8 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
+> [Must Know Information](https://www.youtube.com/watch?v=xm3YgoEiEDc).
+
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
