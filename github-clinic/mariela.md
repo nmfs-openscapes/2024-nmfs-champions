@@ -44,4 +44,13 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 ## NOTES
 
-It's a lot to get familiar with markdown if you haven't used it previously! 
+It's a lot to get familiar with markdown if you haven't used it previously!
+
+### Additional Content in Markdown
+
+To Do list:
+
+1. Review *github-clinic* personalized document
+2. Complete Task 1
+3. Complete Task 2
+4. Commit changes
