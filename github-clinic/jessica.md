@@ -24,7 +24,7 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
+1. **bananas**
 2. tamales
 3. cakes
 
@@ -37,6 +37,9 @@ We can make an indented quote block with the `>` symbol, as in the example above
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+
+![]()![picture24](https://github.com/user-attachments/assets/967e0410-0b8b-4ce0-b177-f06c516c74ee)
+
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
