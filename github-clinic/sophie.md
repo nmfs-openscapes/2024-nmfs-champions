@@ -44,9 +44,6 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 Here is my **bold** *new* sentence!
 
-![Screenshot (4)](https://github.com/user-attachments/assets/4a1298b2-8744-49ec-8ec7-217128eb3cf6)
-
-
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
