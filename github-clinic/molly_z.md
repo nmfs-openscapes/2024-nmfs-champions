@@ -42,7 +42,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-[This website is a good resource for salmon stream information.](https://www.adfg.alaska.gov/sf/SARR/AWC/index.cfm?ADFG=main.interactive)
+This [website](https://www.adfg.alaska.gov/sf/SARR/AWC/index.cfm?ADFG=main.interactive) is a good resource for salmon stream information.
 
 ## NOTES
 
