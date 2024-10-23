@@ -15,6 +15,7 @@ Note: In the browser, GitHub will suggest "Update file.md" as the commit message
 ## Task 2: Practice Markdown 
 
 Now let's practice Markdown and commit another edit to this file. 
+[sablefish_fdl_multiplot.pdf](https://github.com/user-attachments/files/17497968/sablefish_fdl_multiplot.pdf)
 
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
