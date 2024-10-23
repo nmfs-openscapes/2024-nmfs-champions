@@ -46,7 +46,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 2. list 2
 3. list 3
 
-![]([https://waquoitbayfishcompany.com/gallery/p/narwhal](https://www.istockphoto.com/vector/narwhal-with-donuts-gm1191300596-338031932))
+just drag and drop an image
+![Shining_inflatable (1)](https://github.com/user-attachments/assets/b8c5863e-59c3-4384-a2b8-0167a69ad35c)
 
 ## NOTES
 
