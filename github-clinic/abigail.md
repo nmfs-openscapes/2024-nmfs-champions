@@ -43,7 +43,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
 # Here's a delicious granola recipe
-![](![IMG_1386](https://github.com/user-attachments/assets/0c5b96a2-f0c0-4c7f-99ad-9249102fbcaf))
+![](../granola.jpg)
 
 ## NOTES
 
