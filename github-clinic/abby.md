@@ -42,9 +42,9 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
-A. list
-B. list 2
-C. list 3
+1. list
+2. list 2
+3. list 3
 
 ## NOTES
 
