@@ -1,4 +1,5 @@
 # Megsie edits :bug:
+Wow, I love using markdown :ta-da: ! I am practicing adding text and emojis.
 
 # GitHub practice from the browser
 
