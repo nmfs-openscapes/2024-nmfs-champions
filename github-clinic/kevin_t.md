@@ -4,7 +4,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 ## Task 1: Commit an edit from the browser
 
-**I DELETED KEVIN'S CONTENT!!!**
+**Making a Commit!!!**
 
 ## Task 2: Practice Markdown 
 
