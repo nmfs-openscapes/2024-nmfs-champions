@@ -48,4 +48,6 @@ It's a lot to get familiar with markdown if you haven't used it previously!
 
 ### Cindy's fun edits
 When I say "cow sharks" to anyone outside of work
-![](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/#lightbox)
+![](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[link](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
