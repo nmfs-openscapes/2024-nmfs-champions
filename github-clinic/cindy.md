@@ -45,3 +45,7 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+### Cindy's fun edits
+When I say "cow sharks" to anyone outside of work
+![](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/)
