@@ -65,7 +65,7 @@ Some brief information about participants. Please add any edits directly
 (we’ll learn how in our GitHub Clinic!)
 
 1. **PIFSC Socioeconomics**: My name is Crystal Dombrow and I analyze socioeconomic cost-earnings survey data from small boat fisheries in the Pacific Islands region.
-2. **HCD**: Our team work on EFH in AK. We are interested in learning best practicies for data workflow and report writing you can see more here: [Alaska Essential Fish Habitat](https://www.fisheries.noaa.gov/alaska/habitat-conservation/essential-fish-habitat-efh-alaska). Names: Skylar Bayer, Mallarie Yeager, Molly Zaleski, Mason Smith.
+2. **Alaska HCD**: Our team works on EFH in AK. We are interested in learning best practices for data workflow and report writing. You can see more here: [Alaska Essential Fish Habitat](https://www.fisheries.noaa.gov/alaska/habitat-conservation/essential-fish-habitat-efh-alaska). Names: Skylar Bayer, Mallarie Yeager, Molly Zaleski, Mason Smith.
 
 ## Our Team
 
