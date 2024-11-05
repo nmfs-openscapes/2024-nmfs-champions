@@ -44,6 +44,8 @@ Maybe this will help make a new list?
 8. without text inbetween
 9. lists?
 
+>clearly I am not 100% understanding how to mark up lists..!
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
