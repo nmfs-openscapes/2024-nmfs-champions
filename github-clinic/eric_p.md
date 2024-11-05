@@ -67,3 +67,12 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+Trying to make a new list!
+
+1. is
+2. this
+3. list
+4. going
+5. to
+6. work?
