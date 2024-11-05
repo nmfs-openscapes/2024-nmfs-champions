@@ -35,6 +35,14 @@ Maybe this will help make a new list?
 
 1. staring a new
 2. list
+ 
+1. can you
+2. make a list
+3. 
+  
+7. start over
+8. without text inbetween
+9. lists?
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
