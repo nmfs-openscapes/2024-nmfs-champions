@@ -29,10 +29,16 @@ We can make lists – *note that lists need an empty line before list items!*
 1. bananas
 2. tamales
 3. cakes
+4. adding to the list
+
+1. staring a new
+2. list
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+
+adding a link [here](www.google.com) to <**google**>
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
