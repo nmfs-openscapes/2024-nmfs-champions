@@ -22,6 +22,8 @@ We can make words **bold** or *italic*.
 
 ### We can make headers.
 
+#### 4th level header
+
 We can make lists – *note that lists need an empty line before list items!*
 
 1. bananas
