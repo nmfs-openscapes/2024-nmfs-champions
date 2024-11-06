@@ -41,6 +41,7 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+![SE2403_Survey_locations](https://github.com/user-attachments/assets/1554fe05-100f-4c13-bf31-2cf43960c49e)
 
 ## NOTES
 
