@@ -18,7 +18,7 @@ Now let's practice Markdown and commit another edit to this file.
 
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can make words **bold** or *italic* using **two asterisks on either side** or *one*. What about ***three***?
 
 ### We can make headers.
 
@@ -41,6 +41,14 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+This is another list of cool fish.
+
+1. Bluefin tuna
+2. Guitarfish
+3. Moray eel
+
+> This is a practice indent.
 
 ## NOTES
 

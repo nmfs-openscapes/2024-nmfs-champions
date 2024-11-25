@@ -18,9 +18,10 @@ Now let's practice Markdown and commit another edit to this file.
 
 This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
-We can make words **bold** or *italic*.
+We can make words **bold** or *italic*. **making words bold** *make words italic*
 
-### We can make headers.
+### We can make headers. 
+### I have made a header here
 
 We can make lists – *note that lists need an empty line before list items!*
 
@@ -28,11 +29,21 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+I am making a new list of my favorite acitivities
+
+1. surf
+2. hike
+3. swim
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
+>
+> I am making a hyperlink for the [GitHubClinic Google Slides](https://docs.google.com/presentation/d/1geUN-dv-NMx6IgeCwMRVmTO8nZaauIl26tZDOrkLW_E/edit#slide=id.g20695b6755c_0_133)
 
 We can make an indented quote block with the `>` symbol, as in the example above.
+
+> This is an indented quote block
 
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 

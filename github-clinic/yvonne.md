@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -27,6 +27,8 @@ We can make lists – *note that lists need an empty line before list items!*
 1. bananas
 2. tamales
 3. cakes
+4. cheetos
+5. water
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -39,6 +41,8 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 ![](../horst-champions-trailhead.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+
+![](https://images4.fanpop.com/image/photos/22000000/Cute-Puppies-puppies-22040946-1280-800.jpg)
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 

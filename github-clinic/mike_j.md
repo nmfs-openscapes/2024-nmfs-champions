@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -40,8 +40,40 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
-Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes.  
 
+```
+# start with clean slate
+rm(list=ls(all=TRUE))
+
+library('geodist') 
+library(devtools)
+library(ggbiplot)
+library(mgcv)
+library(purrr)
+library(broom)
+# from devtools::install_github('ZheyuanLi/SplinesUtils')
+#library(SplinesUtils)
+
+
+### 
+# set the paths 
+if (Sys.info()['sysname'] == 'Linux') {
+  # set the data and output paths
+  T.path = "/home/mjech/NOAA_Gdrive/BlockIslandWF_August2021/Cruise_Docs"
+  #Sa.path = "/media/mjech/Mac Passport/GM202105/ES70_Data/exported_data"
+  Sa.path = "/home/mjech/NOAA_Gdrive/BlockIslandWF_August2021/ES70_Analyses/Sa_Distance"
+  outpath = "/media/mjech/Mac Passport/GM202105/ES70_Data/exported_data"
+  dsep = '/'
+} else if (Sys.info()['sysname'] == 'Windows') {
+  T.path = "C:/users/michael.jech/desktop/BIWF"
+  Sa.path = "C:/users/michael.jech/desktop/BIWF"
+  outpath = "C:/users/michael.jech/desktop/BIWF"
+  dsep = '\\'
+} else {
+  print('Unknown OS Type')
+}
+```
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 

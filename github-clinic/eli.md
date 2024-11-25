@@ -6,7 +6,19 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
+
+$$e = mc^2$$
+
+$$\frac{\sqrt{1+1}}{2}$$
+
+* bullet 1
+* bullet 2
+
+- list 1
+- list 2
+
+- [ ] check
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 

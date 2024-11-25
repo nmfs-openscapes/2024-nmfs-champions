@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -45,3 +45,13 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+### Cindy's fun edits
+When I say "cow sharks" to anyone outside of work
+![](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+![](cowshark.jpg)
+
+**must images be saved to github repo first, or can it point to something online?**
+
+[link](https://www.reddit.com/r/blursedimages/comments/zeczeo/blursed_cow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)

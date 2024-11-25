@@ -6,7 +6,9 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo.  (Just fixed it!)  And now going to try just cut and pasting an image:
+![image](https://github.com/user-attachments/assets/e30ba355-7e3e-4478-9438-71a66c751665)
+
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 

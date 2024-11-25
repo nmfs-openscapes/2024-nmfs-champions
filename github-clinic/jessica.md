@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. Yay!
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -24,7 +24,7 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
+1. **bananas**
 2. tamales
 3. cakes
 
@@ -37,6 +37,12 @@ We can make an indented quote block with the `>` symbol, as in the example above
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+
+![picture24](https://github.com/user-attachments/assets/967e0410-0b8b-4ce0-b177-f06c516c74ee)
+
+![picture24 1](https://github.com/user-attachments/assets/f1106179-9ce1-49a0-8baf-e799eafac445)
+
+![picture23](https://github.com/user-attachments/assets/9b8ed5e5-b9bc-4f54-aff2-83be49ef04cd)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 

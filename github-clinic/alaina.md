@@ -42,6 +42,16 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
+### Trying stuff out!
+
+The number of pound signs produces different header styles!
+
+Listing things to think about:
+
+1. CITES
+2. Accession tracking
+3. Turtles
+
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 

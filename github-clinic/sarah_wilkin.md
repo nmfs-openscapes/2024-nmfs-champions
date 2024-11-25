@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. 
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -16,7 +16,7 @@ Note: In the browser, GitHub will suggest "Update file.md" as the commit message
 
 Now let's practice Markdown and commit another edit to this file. 
 
-This file is written in Markdown, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
+This file is written in **Markdown**, which formats text on the web. To see the Markdown that results in the following formatting, click the pencil icon to edit, or click 'Raw' to inspect it. For example, with Markdown:
 
 We can make words **bold** or *italic*.
 
@@ -24,9 +24,9 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+1. cookies
+2. candy
+3. cake
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 

@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. More text!
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -39,6 +39,11 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 ![](../horst-champions-trailhead.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+
+## Look at these cool Sardine otoliths!
+
+![PS_202207_26_44](https://github.com/user-attachments/assets/99a0fa1d-6621-4175-ac53-69b023664419)
+
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 

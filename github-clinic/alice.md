@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. Yay for learning git hub!
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -24,9 +24,14 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+1. cakes & coffee
+2. tacos
+3. bananas
+4. tamales
+
+Second list
+1. Here I made a new list
+2. And second item on list! 
 
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -37,6 +42,12 @@ We can make an indented quote block with the `>` symbol, as in the example above
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
+
+You can copy a photo from the internet and paste it here:
+![image](https://github.com/user-attachments/assets/55a28fc9-eea5-44b9-9d2f-62b356d54f15)
+
+You can copy a photo from your local computer and past it here:
+![rainer](https://github.com/user-attachments/assets/49f460c9-431b-4f8d-8e6a-55a5f1e98e4e)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 

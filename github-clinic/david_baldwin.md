@@ -8,6 +8,8 @@ Let's edit this file by clicking the pencil icon at the top-right of the file.
 
 Next, make an edit to the text in this file. One idea is to fix this tpyo. 
 
+Just added something.
+
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
@@ -33,6 +35,8 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
 We can make an indented quote block with the `>` symbol, as in the example above.
+
+> Pull quote
 
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 

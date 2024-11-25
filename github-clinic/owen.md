@@ -28,11 +28,22 @@ We can make lists – *note that lists need an empty line before list items!*
 2. tamales
 3. cakes
 
+Here's another list:
+
+1. MORE bananas
+2. SPICY tamales
+3. FROSTED cakes
+
 We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
 We can make an indented quote block with the `>` symbol, as in the example above.
+
+Here's a well-known, absurdist quote
+> Time flies like an arrow, fruit flies like a banana
+> ![](https://pbs.twimg.com/media/ClUy3dgWkAEkWaO?format=jpg&name=900x900)
+
 
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 

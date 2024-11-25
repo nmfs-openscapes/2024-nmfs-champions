@@ -37,7 +37,7 @@ Drive Folders; they are an archive of our live google-doc'ing. Please see
 |:-------------|:-----------------------------------------------------|:----------------------|:--------------------------------|
 | Call 1 | Openscapes mindset                             | [mindset](https://openscapes.github.io/series/mindset), [better science for future us - Alaska Marine Mammal Stock Assessment Report process - a SAR Story](https://docs.google.com/presentation/d/1blfD0KpceoPNvDUt-5n79k49jiPSC2_l5SRyRkab6VE/)  ([recording](https://www.youtube.com/watch?v=wqbwcCXbFL8))  | Pathway trailhead; create GitHub accounts 
 | Call 2 | GitHub for publishing & project management     | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Shared organizing with GitHub
-| Call 3 | Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Onboarding documentation 
+| Call 3 | Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies - California Current Ecosystem Status Report Automation](https://docs.google.com/presentation/d/1Qb1BM35Y7QxwCTb1HDds4FtItbq1Hg9JmGdVU_NeDrc/edit#slide=id.p) [(recording)](https://youtu.be/St_j0D-u7UU)| Onboarding documentation 
 | Call 4 | Open communities & intro to Cloud workflows    | [open communities](https://openscapes.github.io/series/communities), [coding strategies](https://openscapes.github.io/series/coding-strategies) & intro to Cloud workflows | Pathways preparation
 | Call 5 | Pathways share & next steps                     | [pathways](https://openscapes.github.io/series/core-lessons/pathways.html) |   | 
 
@@ -63,6 +63,9 @@ week: Oct 15, 17, 29\*, 31, Nov 12, 14, 26, 28.
 
 Some brief information about participants. Please add any edits directly
 (we’ll learn how in our GitHub Clinic!)
+
+1. **PIFSC Socioeconomics**: My name is Crystal Dombrow and I analyze socioeconomic cost-earnings survey data from small boat fisheries in the Pacific Islands region.
+2. **Alaska HCD**: Our team works on EFH in AK. We are interested in learning best practices for data workflow and report writing. You can see more here: [Alaska Essential Fish Habitat](https://www.fisheries.noaa.gov/alaska/habitat-conservation/essential-fish-habitat-efh-alaska). Names: Skylar Bayer, Mallarie Yeager, Molly Zaleski, Mason Smith.
 
 ## Our Team
 

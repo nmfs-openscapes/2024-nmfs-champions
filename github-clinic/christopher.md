@@ -6,7 +6,7 @@ Working on GitHub.com, we contribute changes through **commits**. You'll practic
 
 Let's edit this file by clicking the pencil icon at the top-right of the file. 
 
-Next, make an edit to the text in this file. One idea is to fix this tpyo. 
+Next, make an edit to the text in this file. One idea is to fix this typo. No typo to fix! YAY!
 
 Finally, we will commit these edits to GitHub. To do this, press the green "Commit Changes..." button. Committing changes has two steps: write a human-readable Commit message, and press the green button to commit changes. 
 
@@ -34,6 +34,8 @@ We can make hyperlinks in [Markdown](https://quarto.org/docs/authoring/markdown-
 
 We can make an indented quote block with the `>` symbol, as in the example above.
 
+> [Must Know Information](https://www.youtube.com/watch?v=xm3YgoEiEDc).
+
 We can include an image with the same `[]()` pattern, by adding a preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
@@ -44,4 +46,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 ## NOTES
 
-It's a lot to get familiar with markdown if you haven't used it previously! 
+*It's a lot to get familiar with markdown if you haven't used it previously!*
