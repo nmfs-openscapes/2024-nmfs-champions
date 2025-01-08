@@ -91,7 +91,7 @@ NMFS Openscapes Mentors
   science early career faculty.
 - [**Shifting institutional culture to develop climate solutions with
   Open Science**](https://onlinelibrary.wiley.com/doi/10.1002/ece3.11341) (Lowndes
-  et al. 2019) - This was co-authored by Openscapes mentors across
+  et al. 2024) - This was co-authored by Openscapes mentors across
   organizations – including NASA Earthdata, NOAA Fisheries, EPA,
   California Water Boards, Pathways to Open Science, Fred Hutch Cancer
   Center.
