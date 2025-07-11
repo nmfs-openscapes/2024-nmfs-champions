@@ -8,6 +8,8 @@ Marine Fisheries Service (NMFS). This is the website for the three NOAA Fisherie
 Cohorts running concurrently in Fall 2024 with research teams and
 individuals from across NMFS Centers and Offices.
 
+This Cohort has completed. Their work is featured by NOAA Fisheries: [Open Science Momentum at NOAA Fisheries](https://www.fisheries.noaa.gov/science-blog/open-science-momentum-noaa-fisheries).
+
 <img src="horst-champions-trailhead.png" align="right" width="450">
 
 ## Cohort Agendas
